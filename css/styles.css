@@ -1,0 +1,18 @@
+body {
+    background-color: tan;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.heading-one, .heading-two {
+    color:brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.heading-one {
+    font-size: 50px;
+}
+
+.heading-two {
+    font-size: 30px;
+}
